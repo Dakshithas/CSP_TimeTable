@@ -1,0 +1,10 @@
+sub_1,c,M1,M2,T2,T3
+sub_2,o,M1,M2,T2,T3
+sub_3,c,M1,,,
+sub_4,o,M1,M2,T2,
+sub_5,o,M1,M2,T2,T3
+sub_6,c,T3,,,
+sub_7,o,M1,M2,T2,T3
+sub_8,c,M1,T3,T2,
+sub_9,o,M1,M2,T2,T3
+R1,R2,R3,,,
